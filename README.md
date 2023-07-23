@@ -1,6 +1,9 @@
 # Portfolio-website
 
+
 **Description**
+
+
 
 This is a repository for my Portfolio Website project. The portfolio website showcases my skills, projects, and experiences to potential employers and collaborators. It serves as an online resume and a way for others to get to know more about me and my work.
 
@@ -18,6 +21,8 @@ Open the index.html file in your preferred web browser to view the website local
 
 
 **Usage**
+
+
 
 Feel free to use this project as a template for your own portfolio website. Personalize the content, add your projects, and customize the design to make it uniquely yours.
 
