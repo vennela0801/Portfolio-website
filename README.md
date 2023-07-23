@@ -29,13 +29,13 @@ Feel free to use this project as a template for your own portfolio website. Pers
 You can also contribute to this project by submitting bug reports, feature requests, or pull requests to help improve the website. Your contributions are highly appreciated!
 Contributing
 
-**If you wish to contribute to this project, follow these steps:
-**
-    Fork the repository on GitHub.
-    Create a new branch from the main branch for your changes.
-    Make your modifications, additions, or fixes.
-    Commit and push your changes to your forked repository.
-    Open a pull request and describe the changes you made.
+**If you wish to contribute to this project, follow these steps:**
+
+Fork the repository on GitHub.
+Create a new branch from the main branch for your changes.
+Make your modifications, additions, or fixes.
+Commit and push your changes to your forked repository.
+Open a pull request and describe the changes you made.
 
 Please ensure that your pull request follows the project's code style and guidelines. Your contributions will be reviewed, and once approved, they will be merged into the main repository.
 
