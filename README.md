@@ -6,29 +6,16 @@ This is a repository for my Portfolio Website project. The portfolio website sho
 
 The website is built using HTML, CSS, and JavaScript, and it is designed to be responsive and accessible on different devices and browsers. It includes sections such as:
 
-    Home: An introduction to myself and a brief overview of what I do.
-    About: More detailed information about my background, skills, and experiences.
-    Projects: A collection of projects I've worked on, with descriptions and links to their respective repositories or live demos.
-    Contact: A way for visitors to get in touch with me through a contact form or links to my social media profiles.
+Home: An introduction to myself and a brief overview of what I do.
+About: More detailed information about my background, skills, and experiences.
+Projects: A collection of projects I've worked on, with descriptions and links to their respective repositories or live demos.
+Contact: A way for visitors to get in touch with me through a contact form or links to my social media profiles.
 
 
-Installation
 
-To set up the project locally, follow these steps:
 
-    Clone the repository to your local machine using the following command:
+Open the index.html file in your preferred web browser to view the website locally.
 
-    bash
-
-git clone [https://github.com/vennela0801/Portfolio-Website.git]
-
-Navigate to the project directory:
-
-bash
-
-    cd portfolio-website
-
-    Open the index.html file in your preferred web browser to view the website locally.
 
 **Usage**
 
